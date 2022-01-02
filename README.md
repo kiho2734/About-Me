@@ -3,6 +3,12 @@ React, Scss
 For SCSS
 npm install node-sass --save
 
+For icons
+npm install react-icons --save
+
+For React Router
+npm install react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
